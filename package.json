@@ -1,0 +1,12 @@
+{
+  "name": "IVA",
+  "version": "0.1.0",
+  "description": "Bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/varek-l1d100/IVA.git",
+  "author": "varek-l1d100 <varek.pro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "https://github.com/discordjs/discord.js"
+  }
+}
